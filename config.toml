@@ -3,7 +3,9 @@ title = "Time Machine For Peace!"
 author = "Blair Munro"
 canonifyurls = true
 languagecode = "en"
+
 theme = "hugo-tanka"
+themesDir = "themes"
 
 enableEmoji = true
 hasCJKLanguage = false
