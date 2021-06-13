@@ -77,7 +77,7 @@ _Propose site changes and edits using [github](https://github.com/wp-computer/ti
 
 ![](/images/booth/NSA.jpg)
 
-<p class="caption">Detach from the bullshit.</p>
+<p class="caption">Detach from the BS.</p>
 
 </div>
 
