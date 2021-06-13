@@ -16,13 +16,13 @@ First, some symbols to make communication easier:
 
 ![](/images/UPC.png)
 
-<p class="caption">Symbol for 'The Universal Peace Computer (time machine (or trademark))</p>
+<p class="caption">Symbol for 'The Universal Peace Computer' (time machine (or trademark))</p>
 
 <div class="figure">
 
 ![](/images/WPC.png)
 
-<p class="caption">Symbol for 'world piece computer (time machine (or trademark))</p>
+<p class="caption">Symbol for 'world piece computer' (time machine (or trademark))</p>
 
 </div>
 
@@ -32,7 +32,7 @@ First, some symbols to make communication easier:
 
 ![](/images/WP.png)
 
-<p class="caption">Symbol for 'world piece (or peace, if referring to the ideal) (time machine (or trademark))</p>
+<p class="caption">Symbol for 'world piece' (or peace, if referring to the ideal) (time machine (or trademark))</p>
 
 </div>
 
