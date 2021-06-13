@@ -2,7 +2,7 @@
 title: "About the Time Machine For Peace (a social invention project)"
 date: "2020-01-01"
 menu: "main"
-description: "A description of the page"
+description: "About the Time Machine For Peace social invention project."
 ---
 
 
@@ -54,6 +54,8 @@ I plan to use this blog as an origin, a central point to originate promotional a
 
 CTA:
 I need help registering these trademarks. [Contact me to collaborate/contribute.](mailto:timemachine@wp.computer) Thank you.
+
+_Propose site changes and edits using [github](https://github.com/wp-computer/timemachineforpeace.git). If you don't know how to use github, it might be a fun and valuable resume-builder to teach yourself how!_
 
 <div class="figure">
 
