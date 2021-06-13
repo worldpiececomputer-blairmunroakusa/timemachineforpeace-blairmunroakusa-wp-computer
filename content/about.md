@@ -6,7 +6,7 @@ description: "About the Time Machine For Peace social invention project."
 ---
 
 
-Peace is a process, not a result.
+_Peace is a process, not a result._
 
 This is a site to chronicle and coordinate the Time Machine For Peace social invention project.
 
