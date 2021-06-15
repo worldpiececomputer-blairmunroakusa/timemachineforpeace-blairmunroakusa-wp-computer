@@ -14,7 +14,7 @@ Reviewing conversation chain from last two market weekends, using review to cons
 
 <div class="figure">
 
-![]()
+![](/images/booth/conversationchain061521.jpg)
 
 <p class="caption"> Conversation chain under review. Each segment is a highly significant interaction I had with someone who expressed genuine interest. Each highly significant conversation represents a token of value (personal learning) that is a product of the market booth R&D effort. Each link color was chosen by the person (people) I spoke with at the end of the conversation to add the the chain. This is a community art project, that is meant to secretly teach people how pointers work, and get people thinking about computer memory in digital non-electronic terms, using a discrete color system, where every entry represents a unit of time, with a corresponding value. 06/15/21.</p>
 
