@@ -4,7 +4,7 @@ author: "Blair Munro"
 date: "2021-06-14"
 ---
 
-[2300.061421]
+&[2300.061421&]
 
 Long day, but solved a bunch of head problems and made enough money to afford hike/exercise gas for summer.
 
