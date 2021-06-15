@@ -11,7 +11,7 @@ Finished day with non-verbal broadcast communication piece.
 
 <div class="figure">
 
-![](/images/booth/napkinbroadcast.061421.jpg)
+![](/images/booth/napkinbroadcast061421.jpg)
 
 <p class="caption">Nonverbal communication broadcast, mindmapping/reflection piece, 06/14/21.</p>
 
