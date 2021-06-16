@@ -13,7 +13,7 @@ I dedicate the Time Machine For Peace social invention project to the following 
  - Atypical people struggling to be themselves in a judgemental xenophobic world
  - People struggling to find their voice, because they have something they desperately need to say
  - Free thinkers who face oppression
- - The impartial observers
+ - The interested--yet impartial--observers
  - The overwatch
 
 </font>

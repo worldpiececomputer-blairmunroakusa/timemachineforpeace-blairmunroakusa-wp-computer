@@ -12,6 +12,14 @@ Please visit github to view site change history.
 
 **My target frequency is to update this site daily.**
 
+<div class="figure">
+
+![](/images/booth/UPCtopologyvisualizationA1V1.jpg)
+
+<p class="caption">This is a diagram expressing topological gestalt.</p>
+
+</div>
+
 <p style="font-size:9px;"><b>A NOTE ON PERSONAL STYLE:</b></p>
 
 <p style="font-size:9px;"><em>I operate on a different frequency. I am the producer right now. Until that changes for this project, expect constant changes everywhere, but consistently inconsistently. I am fickle, with sensitivity to initial conditions (my inner world trajectory is a multi-body problem); besides my unpredictability, I am unpredictable; I am chaotic. This is apparent because I am constantly experimenting with ideas, I move extremely quickly, and my time is so precious to me that I refuse to afford time to explain my every move unless that explanation justifies the time spent explaining. I am always tinkering with new ways of doing things, so please do not be surprised if say one thing, but end up not following through with that thing. --chances are I found a better way to thing that thing. Thankfully, I solved the multi-body problem...in my world at least.</em></p>
@@ -92,13 +100,7 @@ And some warmup pictures:
 
 </div>
 
-<div class="figure">
 
-![](/images/booth/UPCtopologyvisualizationA1V1.jpg)
-
-<p class="caption">This is a diagram expressing topological gestalt.</p>
-
-</div>
 
 <div class="figure">
 
