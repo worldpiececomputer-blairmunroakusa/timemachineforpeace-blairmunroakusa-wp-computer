@@ -36,6 +36,21 @@ struggling with menu bits...need to activate secondary menu for kickstarter page
 
 first, fleeting action thought...move about topology picture to main page...actually, just moving to top of about page...bumping into html issue.
 
+_(1230)_
+
+_In weeds, aborting separate menu prospect for Kickstarter section . need to understand HUGO innards better. No time now . maybe after solving money problem, or after boradcasting help request . back to kickstarter writing / scheming_
+
+updating css...fonts too large. Nevermind, css file too busy..distracting..back to writing.
+
+I do need to figure out how to just add an arbitrary html page to the site and then link to that. I think I need that stat, especially for organizational purposes.
+
+Okay, solved it. Just need to add .md file to content, structure everythign in the content section.
+
+Hack-around for secondary kickstarter menu: list of links at top of Kickstarter section. Implementign now.
+
+Focusing on just dumping it all out. 00 - Kickstarter Pretext
+
+Need to start committing more frequently so that the writing dumps changes have higher time resolution.
 
 
 [.061621]
