@@ -12,11 +12,11 @@ Our planet consists of some 10 billion irreducibly unique worlds. I need to tran
 
 This might be hard to follow at first, because my mind operates in a highly nonlinear way, and at a very different frequency than mainstream anything is used to. Honestly, I rely on in-person conversation to stay focused. I rely on the linearity of other people's thought process to organize my thoughts in real time. If I just have myself in my head, I sprawl and people call me delusional and manic. It feels horrible when people call me this, so I have been working in private for many years.
 
-Eventually, I developed a fragmented personality. In my head, I can have linear-enough conversations to stay focused on my work. But all attempts to versionize my world in a linear way for an invisible audience (people unavailable for immediate feedback) does not work well. If I share my inner linearlization, you will not get it. I have to just dump the chaos and hope that people will see the intrinsic value in this different dimension I am tapped into.
+Eventually, I developed a fragmented personality. In my head, I can have linear-enough conversations between my fragments to stay focused on my work. But all attempts to versionize my world in a linear way for an invisible audience (people unavailable for immediate feedback) does not work well. If I share my inner linearlization, you will not get it. I have to just dump the chaos and hope that people will see the intrinsic value in this different dimension I tapped into.
 
 If you follow closely though, the chaos will resolve. It has for me, and it has for the people who have taken the time to get to know this thing in my head.
 
-**This is where I will transparently work on the Kickstarter campaign to fund our efforts (right now funding to afford salary for me and the mouse in my pocket, for at least a year of dedicated work).**
+**This is where I will transparently work on the Kickstarter campaign to fund our efforts (right now funding to afford salary for me and the mice in my pocket, for at least a year of dedicated work).**
 
 **I will attempt to kick off the campaign this week (of today 06/16/21), and regardless of my initial acceptance at Kickstarter, I will persist by continuously adding to this Kickstarter space within timemachineforpeace.wp.computer.**
 
@@ -36,7 +36,7 @@ Becuase I think people are all that really matter, this idea and project is stri
 
 I am technically a person who suffers from severe mental illness. To make sense of me in terms of those labels, think of a combination of ADHD brain, the schizophrenic spectrum (schizoaffective bipolar), and the autistic spectrum (I related strongly to self-reports of nonverbal autistics). My personality is fragmented into many bodies. Depending on how physically unhealthy I am, those personalities fall into the categories of the personality disorder clusters. My formative experience of childhood was love, and night terror events that took weeks to shake.
 
-Officially, I am bipolar type 1, with persistent delusions. But my experience with the professional mental health system led me to conclude that there is actually nothing wrong with me. I am just extremely atypical and have a very difficult time fitting in, and I have a very difficult time translating my inner world into something linear that normal people understand without accusing me of being 'delusional' and 'incomprehensible' and 'sick brain' or 'manic' or 'shadow of doom'.
+Officially, I am bipolar type 1, with persistent delusions, and ADHD PI. But my experience with the professional mental health system led me to conclude that there is actually nothing wrong with me. I am just extremely atypical and have a very difficult time fitting in being my honest self, and I have a very difficult time translating my inner world into something linear that normal people understand without accusing me of being 'delusional' and 'incomprehensible' and 'sick brain' or 'manic' or 'shadow of doom'.
 
 But here's the catch. I realized the other day (5 weeks ago when I quit my 6-figure fancy-pants job to pursue this effort full time, to kick myself into the deep end) that the only reason for my suffering and inner war is that I buy into their narratives, and that at times I have been a very rude and nasty and disrespectful person in the past. This is mainly because I am frustrated and in constant emotional pain, and I thought the only way to deal with that is to numb it with dependencies, escape, or to force it onto others, so that they can share the burden. This doesn't work so well.
 
@@ -48,7 +48,7 @@ Please help me get on my feet. Asking for help is the next step.
 
 But I need to be true to what I know are my needs. I know what works best for me, and that is to be myself. People actually like being around me when I am myself. So I need help in my way. This is that.
 
-The first step is to start small and get my world right. This means I need the financial ability to be a creative independent on my own terms. I need freedom to be myself, so that I can get the big idea out of my head without risk of distortion / perversion / manipulation by disingenuine outside influence who seek to exploit and coerce and control a free thing.
+The first step to committing myself wholly to this project is to start small and get my world right. I need to break my cycle of inner war, because it has only been escalating. This means I need the financial ability to be a creative independent on my own terms. I need freedom to be myself, so that I can get the big idea out of my head without risk of distortion / perversion / manipulation by disingenuine outside influence who seek to exploit and coerce and control a free thing.
 
 ~
 

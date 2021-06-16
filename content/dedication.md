@@ -15,5 +15,9 @@ I dedicate the Time Machine For Peace social invention project to the following 
  - Free thinkers who face oppression
  - The interested--yet impartial--observers
  - The overwatch
+ - My family
+ - All the people who have shared their wisdom and experience with me, either directly or indirectly, living or dead
+
+... if you have had a genuine or disingenuine conversation with me, no matter how short, you have contributed to this project
 
 </font>
