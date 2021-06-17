@@ -31,6 +31,8 @@ Added color legend to 00 - Kickstarter Pretext...will reuse later
 
 (1020) Color annotating 00 -Kickstarter pretext now would be the best way to warm up for FAQ writing.
 
+(1120) Time to break from annotating...at about 2/3 complete...I want to move on to FAQ now.
+
 [.061721]
 
 \>\>
