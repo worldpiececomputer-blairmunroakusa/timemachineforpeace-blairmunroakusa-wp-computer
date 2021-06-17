@@ -16,8 +16,17 @@ title: "00 - Kickstarter Pretext"
 > ! (traverse via section menu, left to right)
 > Taking about the bit about my dad...little too personal I think, also a fallacious appeal to emotion ;)
 > (will follow through after setting up FAQ)
->  
 > ```
+> <span style="color:red">**RED TEXT or [[ ]]**</span> MEANS '_way too dramatic_ / _too hyperbolic_'
+>
+> <span style="color:purple">**PURPLE TEXT**</span> MEANS '_this is a comment to cool down_ <span style="color:red">**red**</span>'
+>
+> <span style="color:green">**GREEN TEXT**</span> MEANS '_this is stuff I think is valuable_'
+
+
+
+
+**BEGIN PIECE**
 
 [1330.061621]
 
@@ -37,17 +46,18 @@ If you follow closely though, the chaos will resolve. It has for me, and it has 
 
 **I will attempt to kick off the campaign this week (of today 06/16/21), and regardless of my initial acceptance at Kickstarter, I will persist by continuously adding to this Kickstarter space within timemachineforpeace.wp.computer.**
 
-THE ONLY THING I CARE ABOUT IS GETTING THIS MASSIVE SPRAWLING IDEA OUT OF MY HEAD. MY WORLD PEACE DEPENDS ON THIS. EVERYTHING IN MY WORLD DEPENDS ON THIS. IT IS THE ONLY THING THAT MATTERS TO ME AND I WILL NOT LET ANYTHING OR ANYBODY INTERFERE WITH THIS. IF ONE ATTEMPT DOES NOT WORK, I TRY SOMETHING ELSE. I WILL KEEP TRYING UNTIL I SUCCEED OR PERMANENTLY FAIL. _Please! I know this is scattered, but I need to be myself. Thank you for your patience while I figure this out as I go._
+<span style="color:purple;font-size:12px">_This red text is very true, but I honestly don't need to shout now, do I??_</span>
+<span style="color:red">THE ONLY THING I CARE ABOUT IS GETTING THIS MASSIVE SPRAWLING IDEA OUT OF MY HEAD. MY WORLD PEACE DEPENDS ON THIS. EVERYTHING IN MY WORLD DEPENDS ON THIS. IT IS THE ONLY THING THAT MATTERS TO ME AND I WILL NOT LET ANYTHING OR ANYBODY INTERFERE WITH THIS. IF ONE ATTEMPT DOES NOT WORK, I TRY SOMETHING ELSE. I WILL KEEP TRYING UNTIL I SUCCEED OR PERMANENTLY FAIL.</span> _Please! <span style="color:purple;font-size:12px">_This is pleading...it doesn't suit you._</span>I know this is scattered, but I need to be myself. Thank you for your patience while I figure this out as I go._
 
 ~
 
-I am selling a process, not a product. This content and presentation is all very rough, because that is the idea. I do not have it figured out, but I am attempting to define a technological/social process (ai, actual intelligence, a peace process) that will hopefully allow us to figure things out as we go, individually, by one-another's sides, as a community, not a mob-mind.
+<span style="color:green">I am selling a process, not a product. This content and presentation is all very rough, because that is the idea. I do not have it figured out, but I am attempting to define a technological/social process (ai, actual intelligence, a peace process) that will hopefully allow us to figure things out as we go, individually, by one-another's sides, as a community, not a mob-mind.</span>
 
-For me peace is an individual process. It is not a product--not a result. We must connect our individual peace processes together in iteratively better ways. I call this **Universal Peace**.
+<span style="color:green">For me peace is an individual process. It is not a product--not a result. We must connect our individual peace processes together in iteratively better ways. I call this **Universal Peace**.</span>
 
 For me the idea is to be honest about not having it figured out. To stop faking it. To just be one's self, and let the surrounding world sort things out as it may. I think we all need to adopt this approach if we are to solve our existential problems.
 
-So for my personal situation, I adocate for strict transparency. You need to know who I am, and why. I will not censor my content, but I will aspire to be more and more graceful and tactful in my word choice and delivery. My word choice is deliberate, and if you percieve (...mike drop)
+<span style="color:red">So for my personal situation, I adocate for strict transparency.</span> <span style="color:purple;font-size:12px">This is strictly not true. I am still figuring out what the actual ratio is, but I have way more private thoughts than public thoughts.</span> You need to know who I am, and why. I will not censor my content, but I will aspire to be more and more graceful and tactful in my word choice and delivery. My word choice is deliberate, and if you percieve (...mike drop)
 
 Becuase I think people are all that really matter, this idea and project is strictly incomplete without knowing the context of my inner experience and my outer experience.
 
@@ -83,11 +93,11 @@ I will attempt, using this Kickstarter campaign, to dump my mental concept map o
 
 In two weeks, I will officially be living out of my truck. I invested all my money into my business to pursue this all-in full send bet, and can't afford much other than food and gas/insurance and data. If this attempt at reaching my tarket market / audience fails, I will cut ties from Alaska and wander the country with my cardboard signage until I can find the right people to help, until I can find the right audience.
 
-My dad told me once that I am sick and completely incapable of supporting myself. He is wrong about me being sick, but he is right about me being incapable of supporting myself.
+~~My dad told me once that I am sick and completely incapable of supporting myself. He is wrong about me being sick, but <span style="color:red">he is right about me being incapable of supporting myself</span>.~~  <span style="color:purple;font-size:12px">Too personal, and I understand my father's concern...I have been very unwell in the past. He probably also believes that I am capable of supporting myself, because I know I am. I know I can support myself in the typical way, but I have not yet proven I can support myself in the atypical way I would prefer. This will come.</span>
 
-I need your support.
+<span style="color:green">I need your support.</span>
 
-Unless somebody else on this planet is pursuing this vision outlined by my concept map like I am, I believe that We need your support, too. This is not about me, but right now, I have to start with me.
+<span style="color:red">Unless somebody else on this planet is pursuing this vision outlined by my concept map like I am, I believe that We need your support, too.</span><span style="color:purple;font-size:12px"> Too messianic complex...I know people with a vision like mine exist...the purpose of broadcasting is in large part to find these people so that we can integrate our vision versions into something more whole.</span> This is not about me, but right now, I have to start with me<span style="color:purple;font-size:12px"> ...in my world, it starts with me... </span>.
 
 I wish highly optimized peace-process upon your many worlds.
 

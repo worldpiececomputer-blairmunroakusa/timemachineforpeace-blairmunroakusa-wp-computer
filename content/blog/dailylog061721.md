@@ -23,7 +23,13 @@ Creating FAQ section, to introduce a more  conversational element to the the bro
 
 First adding annotation box to 00 - Kickstarter (a snippet to use for all long text piece) (adding initial feedback)
 
-Quick break to lead now to highlight color in markdown (if possible...probably something I will need to do with html)
+Quick break to lead now to highlight color in markdown (if possible...probably something I will need to do with inline html)
+```
+<span style="color:red">
+```
+Added color legend to 00 - Kickstarter Pretext...will reuse later
+
+(1020) Color annotating 00 -Kickstarter pretext now would be the best way to warm up for FAQ writing.
 
 [.061721]
 
