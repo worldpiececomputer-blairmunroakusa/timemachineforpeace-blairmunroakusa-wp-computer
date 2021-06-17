@@ -2,34 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://timemachineforpeace.wp.computer/blog/</loc>
+    <loc>https://timemachineforpeace.wp.computer/logs/daily/dailylog061721/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://timemachineforpeace.wp.computer/blog/dailylog061721/</loc>
+    <loc>https://timemachineforpeace.wp.computer/logs/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://timemachineforpeace.wp.computer/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://timemachineforpeace.wp.computer/blog/dailylog061621/</loc>
+    <loc>https://timemachineforpeace.wp.computer/logs/daily/dailylog061621/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://timemachineforpeace.wp.computer/blog/dailylog061521/</loc>
+    <loc>https://timemachineforpeace.wp.computer/logs/daily/dailylog061521/</loc>
     <lastmod>2021-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://timemachineforpeace.wp.computer/blog/dailylog061421/</loc>
+    <loc>https://timemachineforpeace.wp.computer/logs/daily/dailylog061421/</loc>
     <lastmod>2021-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://timemachineforpeace.wp.computer/blog/marketrecap061321/</loc>
+    <loc>https://timemachineforpeace.wp.computer/booth/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://timemachineforpeace.wp.computer/blog/marketrecap061221/</loc>
+    <loc>https://timemachineforpeace.wp.computer/booth/marketrecap061321/</loc>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://timemachineforpeace.wp.computer/booth/marketrecap061221/</loc>
     <lastmod>2021-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://timemachineforpeace.wp.computer/blog/marketrecap061121/</loc>
+    <loc>https://timemachineforpeace.wp.computer/booth/marketrecap061121/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://timemachineforpeace.wp.computer/about/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://timemachineforpeace.wp.computer/in/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://timemachineforpeace.wp.computer/kickstarter/pretext/</loc>
@@ -38,6 +44,8 @@
   </url><url>
     <loc>https://timemachineforpeace.wp.computer/kickstarter/overview/</loc>
   </url><url>
+    <loc>https://timemachineforpeace.wp.computer/blog/</loc>
+  </url><url>
     <loc>https://timemachineforpeace.wp.computer/categories/</loc>
   </url><url>
     <loc>https://timemachineforpeace.wp.computer/concepts/</loc>
@@ -45,6 +53,8 @@
     <loc>https://timemachineforpeace.wp.computer/dedication/</loc>
   </url><url>
     <loc>https://timemachineforpeace.wp.computer/kickstarter/</loc>
+  </url><url>
+    <loc>https://timemachineforpeace.wp.computer/logs/logs/</loc>
   </url><url>
     <loc>https://timemachineforpeace.wp.computer/tags/</loc>
   </url><url>
