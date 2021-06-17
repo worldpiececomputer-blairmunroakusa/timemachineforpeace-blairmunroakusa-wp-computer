@@ -52,6 +52,18 @@ Focusing on just dumping it all out. 00 - Kickstarter Pretext
 
 Need to start committing more frequently so that the writing dumps changes have higher time resolution.
 
+_(1530)_
+
+_good writing dump to 00 - Kickstarter Pretext...need to dump visual aids now_
+
+Mountain break, for time, 160 pushups, 280 situps, 65 pullups.
+
+On vice struggles, complete crash and burn.
+
+Trying to convert resume into personal story...probably too much to tackle right now. Losing focus, need to get visual aids up and meaningful writing pieces from last weekend's market session.
+
+Need to get credentials up though. Fuck it. I will just post the resume I have. No need to go so far on the creative stuff right now.
+
 
 [.061621]
 
