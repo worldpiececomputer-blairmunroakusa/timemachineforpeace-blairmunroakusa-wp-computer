@@ -9,6 +9,7 @@ I dedicate the Time Machine For Peace social invention project to the following 
 
  - Victims of war in all forms, both external and internal
  - American veterans who took the oath to support and defend the values of the US Constitution ...especially those who paid the ultimate price ...especially those who embrace a fierce hatred for war
+ - Law enforcement
  - People struggling with mental illness
  - Atypical people struggling to be themselves in a judgemental xenophobic world
  - People struggling to find their voice, because they have something they desperately need to say
