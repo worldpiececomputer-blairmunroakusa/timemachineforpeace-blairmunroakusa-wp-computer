@@ -2,6 +2,23 @@
 title: "00 - Kickstarter Pretext"
 ---
 
+
+
+> **piece reflections / review / self-comments**
+> ```none
+> (061721)
+> This feels **way** too dramatic..lots of outside voice shouting
+> My mood while writing was definitely leaning toward the red (emotional) side
+> {TODO . highlight these dramatic portions in red}
+> {TODO . dedramatize / take out the shouting}
+> ! The dump was good though...got me thinking about FAQ
+> ! Also got me thinking about treating tmfp.wp.computer as exhibit
+> ! (traverse via section menu, left to right)
+> Taking about the bit about my dad...little too personal I think, also a fallacious appeal to emotion ;)
+> (will follow through after setting up FAQ)
+>  
+> ```
+
 [1330.061621]
 
 My frustration is that to be at peace in my world, I have a specific vision in my head I need to realize. Thus I have something I need to say to everybody.

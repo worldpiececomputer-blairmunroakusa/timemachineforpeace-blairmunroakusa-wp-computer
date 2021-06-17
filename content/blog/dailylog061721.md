@@ -1,0 +1,63 @@
+---
+title: "Daily Log: 06/17/21"
+author: "Blair Munro"
+date: "2021-06-17"
+---
+
+> <font size=1>
+> <b>TODO:</b>
+>
+> . ~~REview conversation chain~~ (1130)
+> . ~~jump on kickstarter to get in thinking zone~~
+> . ~~create dedicated space on tmfp.wp.computer for drafting kickstarter~~
+> . post credentials on bmakusa.wp.computer
+> . need to partition posts into separate log spaces, etc
+> . create FAQ and write/begin populating
+> </font>
+
+\<\<
+
+[0900.061721]
+
+Creating FAQ section, to introduce a more  conversational element to the the broadcast communication.
+
+First adding annotation box to 00 - Kickstarter (a snippet to use for all long text piece) (adding initial feedback)
+
+Quick break to lead now to highlight color in markdown (if possible...probably something I will need to do with html)
+
+[.061721]
+
+\>\>
+
+> **Formalisms used in this log:**
+>
+> ```
+> <<
+> [origin timedate == hour.date]
+> << log entry text here >>
+> [last edit timedata == hour.date]
+> >>
+> ```
+
+<!--
+
+CODE PIECES:
+
+<div class="figure">
+
+![](/images/booth/napkinbroadcast061421.jpg)
+
+<p class="caption">Nonverbal communication broadcast, mindmapping/reflection piece, 06/14/21.</p>
+
+</div>
+
+```none
+> Time justification:
+```
+
+> <font size=1>
+> <b>TODO:</b>
+>
+> . incomplete task
+> . ~~REview conversation chain~~ (time complete)
+> </font>-->

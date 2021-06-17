@@ -8,8 +8,8 @@ date: "2021-06-16"
 > <b>TODO:</b>
 >
 > . ~~REview conversation chain~~ (1130)
-> . jump on kickstarter to get in thinking zone
-> . create dedicated space on tmfp.wp.computer for drafting kickstarter
+> . ~~JUmp on kickstarter to get in thinking zone~~
+> . ~~create dedicated space on tmfp.wp.computer for drafting kickstarter~~
 > . post credentials on bmakusa.wp.computer
 > . need to partition posts into separate log spaces, etc
 > </font>
@@ -62,10 +62,13 @@ On vice struggles, complete crash and burn.
 
 Trying to convert resume into personal story...probably too much to tackle right now. Losing focus, need to get visual aids up and meaningful writing pieces from last weekend's market session.
 
-Need to get credentials up though. Fuck it. I will just post the resume I have. No need to go so far on the creative stuff right now.
+(2200.061621)
 
+Reflected on 00 - Kickstarter Pretext...good dump, super red, need to revise.
 
-[.061621]
+outlined FAQ section...to start conversation.
+
+[2300.061621]
 
 \>\>
 
