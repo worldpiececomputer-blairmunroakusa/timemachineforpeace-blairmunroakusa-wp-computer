@@ -50,23 +50,23 @@ I plan to use this blog as an origin, a central point to originate promotional a
 
 This domain space is meant to be the communal space in cyber-world to experiment with a new way of going about doing social media.
 
--Blair
+-Blair, 061221
 
 ##### **Some symbols to make communication easier:**
 
-<div class="figure" style="figure-size:small;">
+<div class="figure">
 
 ![](/images/UPC.png)
 
 <p class="caption">Symbol for 'The Universal Peace Computer' (time machine (or trademark))</p>
+
+</div>
 
 <div class="figure">
 
 ![](/images/WPC.png)
 
 <p class="caption">Symbol for 'world piece computer' (time machine (or trademark))</p>
-
-</div>
 
 </div>
 
@@ -91,7 +91,7 @@ _Propose site changes and edits using [github](https://github.com/wp-computer/ti
 
 ![](/images/booth/main0612.jpg)
 
-<p class="caption">Welcome.</p>
+<p class="caption">Welcome. A prototype peacespace, or world peace lab.</p>
 
 </div>
 

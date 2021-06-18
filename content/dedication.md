@@ -4,6 +4,9 @@ date: "06-15-2021"
 menu: "main"
 description: "Project dedication"
 ---
+
+It's a long list, but I could easily make it much much longer.
+
 <font size="1">
 I dedicate the Time Machine For Peace social invention project to the following people:
 

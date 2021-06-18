@@ -38,6 +38,22 @@ _Quick break to remove list from homepage._
 
 (1200) added new sections...populating
 
+(1330) wrote IN
+
+polished about
+
+refined IN
+
+golden conversation with dear friend about peace
+
+run
+
+add FAQ armmap
+
+writing FAQ
+
+(1900) dinner + more writing
+
 [.061721]
 
 \>\>
