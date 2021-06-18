@@ -39,7 +39,7 @@ There are some 10 billion Human worlds in our Human Universe. Each world is irre
 
 ##### **Question:**
 
-> How to we fit all the Human worlds plus all their world pieces together in a way that maximizes the good, and minimizes the bad?
+> How do we fit all the Human worlds plus all their world pieces together in a way that maximizes the good, and minimizes the bad?
 
 Call this the _Human Optimization Problem_.
 
