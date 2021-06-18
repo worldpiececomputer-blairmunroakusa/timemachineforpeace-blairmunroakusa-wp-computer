@@ -33,6 +33,17 @@ _still thinking about kickstarter_ Keep it simple bro. Just use campaign to sket
 
 (1050) need to annotate signage now.
 
+Failed to annotate...got onto talking with people
+
+(1300) Annotated intro signage.
+
+(1400) Need to add to site:
+
+Blair, make the sections relateable, to the interest categories that people express when they roll through the booth.
+
+IDEA...devote subdomains to old site git images
+
+
 
 
 [.061821]
