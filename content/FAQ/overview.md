@@ -10,9 +10,11 @@ The FAQ section is a collection of answers to common questions that people close
 
 I have included email links for you to ask a question of your own. I will prioritize answering questions that are common, or important enough to address sooner than others.
 
-Regardless of whether or not I answer, your questions serve as valuable data for moving forward with this project.
+Regardless of whether or not I answer, your questions serve as valuable data for moving forward with this project. Even if I do not answer a question immediately, as long as the question is appropriate, I will post it in a list for other people to ponder.
 
-Think of this like a choose-your-own-adventure conversational experience.
+The idea is to collect questions and then answer common questions in fell-swoops. The idea is to create a collective conversation space, where I am not the only one discussing important questions about peace, and how a time machine for peace would social invention project would work.
+
+Think of this like a choose-your-own-adventure conversational experience. Discuss amongst yourselves!
 
 If some aspect of this FAQ or site contents pops out at you as not-quite-clear, or interesting enough to have a conversation about, come up with a simple question to guide the conversation. This helps me linearize the sprawling thing in my head. It really helps a lot.
 

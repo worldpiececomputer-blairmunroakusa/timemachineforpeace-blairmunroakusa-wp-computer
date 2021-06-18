@@ -54,6 +54,11 @@ writing FAQ
 
 (1900) dinner + more writing
 
+(2100) checking to see if external links are permitted in Kickstarter campaign profile...can I rely on the website as a vehicle for providing Kickstarter campaign traffic with higher resolution? ...yeah, lots of links in kickstarter campaigns...we're good there. I will stick with the art project project type. Expose to artists first because they are typically more abstract in terms of my version of practicality, then I will let the techie types 'discover' the project by accident, word-mouth, etc. I think it will be more fun for everybody that way.
+
+(2200) added context section, credentials, library
+
+
 [.061721]
 
 \>\>
