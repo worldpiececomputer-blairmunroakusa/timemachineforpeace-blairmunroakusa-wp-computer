@@ -8,6 +8,9 @@ New bell installed. Ring for choose-your-own-adventure.
 
 Brian / Maya, if you are reading this, you should stop by the booth for a picture with your UPC support tokens and I. It would help with the Kickstarter I am angling toward.
 
+
+LOL...Bill couple tents down asked me if I was Bahai Faith.
+
 **Visitor interaction log (conversation chain):**
 
 (1130) Dylan from highschool! Teal paperclip. CYOA worked pretty well...started with hi, interest in rocks...explained 1-bit rock computer, on to extracting tech value and apply to productivity systems. Wished I would have worked in the commercial aspect. Failed to leave with brainfood question prompt. Dylan sparked a good concept linkage to the issue of 'compatibility' between people. I also had the opportunity to freestyle on the idea of using electronic computers to host a dynamic ontology of concepts that represent the way tw different worlds connect. Cued into social experiment aspect.
@@ -65,6 +68,23 @@ I was caught off guard by the 'help wanted' inquiry. Linda cued right in to aski
 
 Learning -- I need better words for how to address the social aspect. I think I am doing pretty ok with the economic and tech stuff, but the social aspect is important...especially how this could be used to implement local peace process...and then lead onto the economic stuff.
 
+(1520) Emily & Jonvi, green and pink
+
+On blueprints...extracting concepts from tech, science, math, make them more accessible, to maintain universal peace process, or link worlds together. Education...learning...how to link worlds with UP process, the process of linking worlds necessitates education an learning about each others worlds. My hat process failed because I was too distracted by the conversation to take my hat off until it was too late. --forgot a lot of key details.
+
+On narrow minded people...led to lead-by-example, economic angle. (I think economic angle is the superangle, so far. The rest is transport.)
+
+Left them with brainfood (what can I do to contextualize my world in terms of a peace process?)
+"How can we start now??" Is the question I want to leave an answer with people.
+
+What is the minimum one would have to do to reap the benefits of universal peace in their world?
+I think it is simply thinking in terms of how to contextualize things in terms of universal peace.
+
+How specifically would the contextualization work?
+
+1 - Focus on what you love
+2 - Focus on what your skills are / what you do
+{3 - Find a way to link these two things together in your day to day life}
 
 
 **Lightbulbs:**

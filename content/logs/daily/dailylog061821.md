@@ -43,8 +43,9 @@ Blair, make the sections relateable, to the interest categories that people expr
 
 IDEA...devote subdomains to old site git images
 
+More conversations...
 
-
+Updating homepage for tmfp site
 
 [.061821]
 
