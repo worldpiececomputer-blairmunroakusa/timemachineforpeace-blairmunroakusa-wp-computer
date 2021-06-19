@@ -47,7 +47,9 @@ More conversations...
 
 Updating homepage for tmfp site
 
-[.061821]
+Log process crash...too tired to update after market day, sleep time.
+
+[2000.061821]
 
 \>\>
 
