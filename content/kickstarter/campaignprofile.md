@@ -9,6 +9,8 @@ I'd like to introduce myself:
 
 I'm approaching the Kickstarter community because I am looking for help getting on my feet, and I want to establish a lasting relationship within the communities that I am most interested in working with. To prepare for this kickstarter, I set up a market research and platform development booth for the summer at my local weekend market up here in Anchorage, Alaska, where I call home. I am a conceptual peace artist, a theoretical peace physicist, and a peace systems engineer. I have a degree in electrical engineering.
 
+<a href="https://timemachineforpeace.wp.computer/context/bmakusa/" target="_default">Some of my credentials may be viewed here.</a>
+
 **I'm inventing a time machine for peace** (a new kind of computer). I need to turn this project, which has largely been private over the years, into a social invention project. This is because there is no way I can do this alone, and I would rather do awesome things with people. For now though, this is me and the mice in my pocket.
 
 Over the course of ten years, formative conversations with hundreds of people are responsible for the current state of the project. If you have had a genuine conversation or exchange with me, chances are that you contributed in some way to this project. Thank you.
@@ -59,7 +61,7 @@ Eventually, I hope to consolidate my experience with others and export a fuzzy b
 
 ##### **~ Endgame**
 
-My working thesis is that if enough people start thinking in terms of universal peace in their individual and community head-spaces, this will be enough to cause a series of [explosive percolation](https://www.wired.com/2015/08/new-laws-explain-fast-growing-networks-break/) events toward a global conversation about universal peace.
+My working thesis is that if enough people start thinking in terms of universal peace in their individual and community head-spaces, this will be enough to cause a series of <a href="https://www.wired.com/2015/08/new-laws-explain-fast-growing-networks-break/" target="_deafult">explosive percolation</a> events toward a global conversation about universal peace.
 
 ( Explosive percolation is not viral growth. By deliberately biasing the way we form world piece computer networks to favor local connectivity over global connectivity, we stand to induce a stepwise progression of explosive percolation, ultimately resulting in a singular universal peace process. At first however, The Universal Peace Computer will have a fragmented universal peace process, with a fragment corresponding to some community or region. )
 
@@ -175,7 +177,7 @@ Whether or not the AGI singularity happens via electronic computers (quantum or 
 
 **~ Are you on drugs?**
 
-Sometimes. I engage in periods where I consume THC regularly, and this helps me make creative associations and vibe harder to my favorite music. I cannot sustain use however, because this makes my delusions unmanageable. At the moment, I am not consuming much THC at all. In the past I have struggled with abusing drugs, but that is no longer much of an issue (I subscribe to a recovery program called '[SMART](https://www.smartrecovery.org)', which I highly recommend). If, for the purpose of sponsorship or funding you would request I relinquish my right to privacy and submit to a drug test, I will happily do so for $130,000 ($30,000 toward taxes, the rest for some pocket change). It would be easier for all parties if you just have a candid conversation with me about this stuff instead.
+Sometimes. I engage in periods where I consume THC regularly, and this helps me make creative associations and vibe harder to my favorite music. I cannot sustain use however, because this makes my delusions unmanageable. At the moment, I am not consuming much THC at all. In the past I have struggled with abusing drugs, but that is no longer much of an issue (I subscribe to a recovery program called '<a href="https://www.smartrecovery.org" target="_default">SMART</a>', which I highly recommend). If, for the purpose of sponsorship or funding you would request I relinquish my right to privacy and submit to a drug test, I will happily do so for $130,000 ($30,000 toward taxes, the rest for some pocket change). It would be easier for all parties if you just have a candid conversation with me about this stuff instead.
 
 .
 
