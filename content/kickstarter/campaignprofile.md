@@ -70,15 +70,24 @@ Although viral growth for some aspects of this project will be unavoidable, I be
 ##### **Kickstarter Objectives:**
 
 **1 - Raise money to work on this project full time for at least one year.**
-	This will buy me the time I need to stay physically, and socially healthy (thus mentally), while still committing 60-80 hours per week toward figuring out the best way to orchestrate the time machine for peace social invention project, to eventually distribute the work load to free up my time for the higher-level theoretical work that interests me.
+
+_This will buy me the time I need to stay physically, and socially healthy (thus mentally), while still committing 60-80 hours per week toward figuring out the best way to orchestrate the time machine for peace social invention project, to eventually distribute the work load to free up my time for the higher-level theoretical work that interests me._
+
 **2 - Figure out the best way to network with like-minded people (people operating on my frequency) who are qualified to help.**
-	My specialty is generalism. This means I am bad at doing specific things (usually just good enough to get myself into trouble), but good at integrating expertise. Generalists need help from specialists, and other generalists.
+
+_My specialty is generalism. This means I am bad at doing specific things (usually just good enough to get myself into trouble), but good at integrating expertise. Generalists need help from specialists, and other generalists._
+
 **3 - Refine these ideas in real time, with active feedback from the Kickstarter community.**
-	I debug in production.
+
+_I debug in production._
+
 **4 - Start a serious (active and deliberate) conversation about universal peace within the Kickstarter community headspace.**
-	In our individual worlds and our local communities, how can we consciously and actively frame what we do in terms of peace as an inclusive, continuously evolving process?
+
+_In our individual worlds and our local communities, how can we consciously and actively frame what we do in terms of peace as an inclusive, continuously evolving process?_
+
 **5 - Inspire people to get excited--yet realistic--about peace.**
-	This project makes me excited to get out of bed in the morning. Regardless of this Kickstarter's success, if I can have that effect on somebody else, I have met personal success.
+
+_This project makes me excited to get out of bed in the morning. Regardless of this Kickstarter's success, if I can have that effect on somebody else, I have met personal success._
 
 **~~~~~~~~~~~~~~~~~~~~~~~~~~~~**
 
@@ -86,22 +95,17 @@ Although viral growth for some aspects of this project will be unavoidable, I be
 
 (includes personal expenses, and costs of personal invention efforts at the moment)
 
-personal overhead (utilities, transportation, housing, food, insurance, entertainment)
-$3,000/month
+personal overhead (utilities, transportation, housing, food, insurance, entertainment) == $3,000/month
 
-project overhead (storage for materials, cost of services and subscriptions, miscellaneous supplies, tinker money)
-* Work space not included... I wish to maintain a distributed community workspace for this project, provided by space-contributions.
-$1,000/month
+project overhead (storage for materials, cost of services and subscriptions, miscellaneous supplies, tinker money) Work space not included... I wish to maintain a distributed community workspace for this project, provided by space-contributions. == $1,000/month
 
-nest egg for taxes and the unexpected (vehicle break-down, insurance deductible)
-$12,000
+nest egg for taxes and the unexpected (vehicle break-down, insurance deductible) == $12,000
 
-cost of support tokens (button pins) and fulfillment
-? $5,000 ?
+cost of support tokens (button pins) and fulfillment == $5,000 {? need to figure this out}
 
 Campaign funding objective:
 
-$65,000
+**$65,000**
 
 Any funds secured in excess of funding objective will be reserved in savings to pay for future years' work.
 
@@ -171,4 +175,12 @@ Whether or not the AGI singularity happens via electronic computers (quantum or 
 
 **~ Are you on drugs?**
 
-Sometimes. I engage in periods where I consume THC regularly, and this helps me make creative associations and vibe harder to my favorite music. I cannot sustain use however, because this makes my delusions unmanageable. At the moment, I am not consuming much THC at all. In the past I have struggled with hard drugs, but that is no longer an issue (I subscribe to a recovery program called '[SMART](https://www.smartrecovery.org)', which I highly recommend). If, for the purpose of sponsorship or funding you would request I relinquish my right to privacy and submit to a drug test, I will happily do so for $130,000 ($30,000 toward taxes, the rest for some pocket change). It would be easier for all parties if you just have a candid conversation with me about this stuff instead.
+Sometimes. I engage in periods where I consume THC regularly, and this helps me make creative associations and vibe harder to my favorite music. I cannot sustain use however, because this makes my delusions unmanageable. At the moment, I am not consuming much THC at all. In the past I have struggled with abusing drugs, but that is no longer much of an issue (I subscribe to a recovery program called '[SMART](https://www.smartrecovery.org)', which I highly recommend). If, for the purpose of sponsorship or funding you would request I relinquish my right to privacy and submit to a drug test, I will happily do so for $130,000 ($30,000 toward taxes, the rest for some pocket change). It would be easier for all parties if you just have a candid conversation with me about this stuff instead.
+
+.
+
+.
+
+.
+
+This list is long, but I plan to add more question-anwsers as people ask. I will prioritize questions that emphasize the Human element of placing people first, and safety.
