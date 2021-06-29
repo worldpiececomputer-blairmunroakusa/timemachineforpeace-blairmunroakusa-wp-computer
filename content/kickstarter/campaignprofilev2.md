@@ -1,18 +1,18 @@
 ---
-title: "Project Description V2, 06/20/21"
+title: "Project Description V2, 06/23/21"
 ---
 
 This is a planet-benefit project.
 
 > Current pretext note, 062321:
 >
-> Instead of attempting to describe this big idea in a pretty package, this Kickstarter, and the paper trail that represents my efforts, will serve as an imperfect example of universal peace. Instead of attempting to tell you, I will do my best to show you. This campaign will probably change dramatically over the course of the next two months. Hopefully after meeting the funding goal, by a year's end following the conclusion of this campaign, I will have a pretty packaged current edition of the big idea to share. This package will be more accessible, and never complete.
+> Instead of attempting to describe this big idea in a pretty package, this Kickstarter and the paper trail that represents my efforts, will serve as an imperfect example of universal peace. Instead of attempting to just tell you, I will do my best to show you. This campaign will probably change dramatically over the course of the next two months. Hopefully after meeting the funding goal, by a year's end following the conclusion of this campaign, I will have a pretty packaged current edition of the big idea to share. This package will be more accessible, and never complete.
 > 
 > My time will be occupied with research and development at the Anchorage Saturday Market Friday thru Sunday, so I will not have much time on these days to tend to this Kickstarter campaign.
 >
 > I need to make a video, but I don't know how. Every time I attempt to package the whole idea in a video form, or written, I get stuck. This is extremely frustrating and I need help with this.
 >
-> I am extremely overwhelmed by all this. I genuinely do not know what the best way of going about getting this idea out of my head is, and supporting myself and mental wellbeing while I do so. Thank you for your patience while I figure this out as I go.
+> I am overwhelmed by all this. I genuinely do not know what the best way of going about getting this idea out of my head is, and supporting myself and mental wellbeing while I do so. Thank you for your patience while I figure this out as I go.
 >
 > > I am trying to solve the Human time / energy problem, and I am using myself as a test subject...
 > >

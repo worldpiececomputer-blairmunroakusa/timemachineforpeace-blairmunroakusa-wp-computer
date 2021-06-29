@@ -7,7 +7,7 @@ title: "Project Description, 06/20/21"
 
 I'd like to introduce myself:
 
-I'm approaching the Kickstarter community because I am looking for help getting on my feet, and I want to establish a lasting relationship within the communities that I am most interested in working with. To prepare for this kickstarter, I set up a market research and platform development booth for the summer at my local weekend market up here in Anchorage, Alaska, where I call home. I am a conceptual peace artist, a theoretical peace physicist, and a peace systems engineer. I have a degree in electrical engineering.
+I'm approaching the Kickstarter community because I am looking for help getting on my feet, and I want to establish a lasting relationship within the communities that I am most interested in working with. To prepare for this kickstarter, I set up a market research and development booth for the summer at my local weekend market up here in Anchorage, Alaska, where I call home. I am a conceptual peace artist, a theoretical peace physicist, and a peace systems engineer. I have a degree in electrical engineering.
 
 <a href="https://timemachineforpeace.wp.computer/context/bmakusa/" target="_default">Some of my credentials may be viewed here.</a>
 
