@@ -1,5 +1,5 @@
 ---
-title: "Garbage 1, 061621"
+title: "06/16/21 - Garbage 1"
 ---
 
 ~~00 - Kickstarter Pretext~~

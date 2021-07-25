@@ -1,5 +1,5 @@
 ---
-title: "Project Description V2, 06/23/21"
+title: "06/23/21 - Project Description V2"
 ---
 
 This is a planet-benefit project.

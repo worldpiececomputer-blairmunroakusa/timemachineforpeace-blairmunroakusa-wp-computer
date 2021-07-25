@@ -1,5 +1,5 @@
 ---
-title: "Project Description, 06/20/21"
+title: "06/20/21 - Project Description"
 ---
 
 
