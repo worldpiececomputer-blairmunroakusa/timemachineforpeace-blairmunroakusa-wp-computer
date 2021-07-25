@@ -24,7 +24,9 @@ The script does not include much 'how' and 'what'.
 
 [second law of thermodynamics, Khan Academy](https://www.khanacademy.org/science/ap-physics-2/ap-thermodynamics/ap-laws-of-thermodynamics/v/second-law-of-thermodynamics)
 
-[Hard Problem of Consciousness overview, David Chalmers](https://www.youtube.com/watch?v=C5DfnIjZPGw)
+[Hard Problem of Consciousness overview, Serious Science, David Chalmers](https://www.youtube.com/watch?v=C5DfnIjZPGw)
+
+[Hard Problem of Consciousness overview, TED, David Chalmers](https://www.youtube.com/watch?v=uhRhtFFhNzQ)
 
 #### 07/17/21
 
