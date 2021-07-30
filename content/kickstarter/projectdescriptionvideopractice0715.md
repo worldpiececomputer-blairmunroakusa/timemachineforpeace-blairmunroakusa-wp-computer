@@ -20,6 +20,8 @@ The script does not include much 'how' and 'what'.
 
 . My treatment of the 2nd law of thermodynamics makes me cringe in horror inside. The treatment presented makes it sound like the 2nd law is defined in terms of violating energy conservation, which is strictly untrue. 
 
+{{< youtube svEqDS1NLH4 >}}
+
 ##### Educational supplements
 
 [second law of thermodynamics, Khan Academy](https://www.khanacademy.org/science/ap-physics-2/ap-thermodynamics/ap-laws-of-thermodynamics/v/second-law-of-thermodynamics)
