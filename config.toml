@@ -1,5 +1,5 @@
-baseurl = "https://timemachineforpeace.wp.computer/"
-title = "Time Machine For Peace."
+baseurl = "https://timemachineforpeace.blairmunroakusa.wp.computer/"
+title = "Time Machine For Peace (Blair's 2021 attempt)."
 author = "Blair Munro"
 canonifyurls = true
 languagecode = "en"
@@ -16,7 +16,7 @@ pygmentscodefences = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 
 [params]
-  sitename = "time machine for peace"
+  sitename = "time machine for peace (Blair's failed 2021 kickoff attempt)"
   faviconfile = "images/UPC.png"
   highlightjs = true
   highlightjslanguages = ["r", "python", "stan"]
