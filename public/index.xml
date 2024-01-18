@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Time Machine For Peace.</title>
-    <link>https://timemachineforpeace.wp.computer/</link>
-    <description>Recent content on Time Machine For Peace.</description>
+    <title>Time Machine For Peace (Blair&#39;s 2021 attempt).</title>
+    <link>https://timemachineforpeace.blairmunroakusa.wp.computer/</link>
+    <description>Recent content on Time Machine For Peace (Blair&#39;s 2021 attempt).</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://timemachineforpeace.wp.computer/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://timemachineforpeace.blairmunroakusa.wp.computer/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
